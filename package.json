@@ -1,0 +1,22 @@
+{
+  "name": "jest-lerna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleBreak/jest-lerna.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LittleBreak/jest-lerna/issues"
+  },
+  "homepage": "https://github.com/LittleBreak/jest-lerna#readme",
+  "dependencies": {
+    "jest": "^22.4.3"
+  }
+}
